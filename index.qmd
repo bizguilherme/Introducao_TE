@@ -10,7 +10,7 @@ footer: "<gbiz@uel.br>"
 
 ## Técnicas Experimentais
 
--   **Professor:** Guilherme Biz
+-   **Professores:** Guilherme Biz
 
     Centro de Ciência Exatas - Depto de Estatística - Sala 17
 
@@ -30,7 +30,7 @@ footer: "<gbiz@uel.br>"
 
 \mbox{Teórica} & \mbox{Prática} & \mbox{Total} \\ \hline
 
-30 & 15 & 45\\ \hline
+120 & 0 & 120\\ \hline
 
 \end{array}
 
@@ -38,7 +38,7 @@ footer: "<gbiz@uel.br>"
 
 :::: {style="text-align: justify;"}
 ::: {style="text-align: justify;"}
-Introdução à estatística. Estatística Descritiva. Noções de Probabilidade. Variáveis Aleatórias e distribuições de probabilidades. Estimação por ponto e por intervalo de confiança. Testes de hipóteses.
+Estatística Descritiva. Distribuição Normal. Estimação. Teste de Hipóteses. Planejamento Estatístico de Experimentos em Agronomia. Análise de variância e testes de comparação de médias. Delineamentos experimentais em pesquisas em Agronomia. Regressão e Correlação.
 :::
 ::::
 
@@ -111,13 +111,13 @@ $$
 
 **Data das avaliações**
 
-+:-----:+:---------------------:+:---------------------:+:---------------------:+
-| Turma | Prova 1               | Prova 2               | Exame                 |
-+-------+-----------------------+-----------------------+-----------------------+
-| 1000  | 22/04/2026 27/04/2026 | 24/06/2026 29/06/2026 | 16/07/2026 16/07/2026 |
-|       |                       |                       |                       |
-| 2000  |                       |                       |                       |
-+-------+-----------------------+-----------------------+-----------------------+
++:-------------:+:---------------------:+:---------------------:+:---------------------:+
+| Turma         | Prova 1               | Prova 2               | Exame                 |
++---------------+-----------------------+-----------------------+-----------------------+
+| 1000          | 22/04/2026 27/04/2026 | 24/06/2026 29/06/2026 | 16/07/2026 16/07/2026 |
+|               |                       |                       |                       |
+| 2000          |                       |                       |                       |
++---------------+-----------------------+-----------------------+-----------------------+
 
 ## Bibliografia
 
