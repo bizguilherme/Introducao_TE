@@ -2,7 +2,9 @@
 title: "Técnicas Experimentais"
 format: revealjs
 editor: visual
-author: "Guilherme Biz"
+author: 
+  - "Inês Cristina de B. Fonseca" 
+  - "Guilherme Biz"
 footer: "<gbiz@uel.br>" 
 ---
 
