@@ -10,13 +10,17 @@ footer: "<gbiz@uel.br>"
 
 ## Técnicas Experimentais
 
--   **Professores:** Guilherme Biz
+-   **Professores:**
+
+    -   Inês Cristina de B. Fonseca $\quad$ **E-mail**: [inescbf\@uel.br](inescbf@uel.br)
+
+    Centro de Ciências Agrárias
+
+    -   Guilherme Biz $\quad$ **E-mail**: [gbiz\@uel.br](gbiz@uel.br)
 
     Centro de Ciência Exatas - Depto de Estatística - Sala 17
 
--   ***Contato:***
-
-    **Telefone**: 3371-4934 / 4346 $\quad$ **E-mail**: [gbiz\@uel.br](gbiz@uel.br)
+    **Telefone**: 3371-4934
 
 -   **Horário de atendimento**:
 
@@ -58,6 +62,10 @@ Estatística Descritiva. Distribuição Normal. Estimação. Teste de Hipóteses
 3.  ::: {style="text-align:justify;"}
     Tomar decisões fundamentadas diante de incertezas relacionadas à Agronomia.
     :::
+
+4.  ::: {style="text-align:justify;"}
+    Interpretar e planejar pesquisar ou experimentos com conhecimento estatístico.
+    :::
 :::
 
 ## Conteúdo Programático
@@ -66,26 +74,37 @@ Estatística Descritiva. Distribuição Normal. Estimação. Teste de Hipóteses
 
 ::::: columns
 ::: {.column width="48%" style="font-size: 34px;"}
-1.  Introdução à estatística
+-   (19/03) Apres. da Disc. Intro. à estatística.
 
-2.  Tabulação de dados
+-   (26/03) Est. Descritiva. Uso do R.
 
-3.  Tabelas e gráficos
+-   (02/04) V. A.. Inferência. Uso do R.
 
-4.  Distribuição de frequências
+-   (09/04) T.H.. Uso do R.
 
-5.  Medidas de posição
+-   (16/04) Avaliação.
 
-6.  Medidas de dispersão
+-   (23/04) Plan. Exp.. Uso do R.
+
+-   (30/04) DIC.
+
+-   (07/05) TCM. Uso do R.
 :::
 
 ::: {.column width="52%" style="font-size: 34px;"}
-7.  Box-plot
-8.  Teoria de probabilidade
-9.  Variáveis aleatórias
-10. Distribuição discretas e contínuas
-11. Intervalo de confiança
-12. Testes de hipóteses
+-   (14/05) DBC. Uso do R.
+
+-   (21/05) Exp. Fatoriais. Uso do R.
+
+-   (28/05) Exp. Fatoriais. Uso do R.
+
+-   (11/06) Ex. Par. Sub.. Uso do R.
+
+-   (18/06) Regressão. Uso do R.
+
+-   (25/06) Grupos de Exp.. Uso do R.
+
+-   (02/07) Avaliacão.
 :::
 :::::
 
@@ -111,15 +130,12 @@ $$
 
 **Data das avaliações**
 
-+:-------------:+:---------------------:+:---------------------:+:---------------------:+
-| Turma         | Prova 1               | Prova 2               | Exame                 |
-+---------------+-----------------------+-----------------------+-----------------------+
-| 1000          | 22/04/2026 27/04/2026 | 24/06/2026 29/06/2026 | 16/07/2026 16/07/2026 |
-|               |                       |                       |                       |
-| 2000          |                       |                       |                       |
-+---------------+-----------------------+-----------------------+-----------------------+
+|            |            |
+|:----------:|:----------:|
+|  Prova 1   |  Prova 2   |
+| 16/04/2026 | 02/07/2026 |
 
-## Bibliografia
+## Bibliografia Básica
 
 <br>
 
@@ -128,39 +144,11 @@ ANDRADE, D. O.; OGLIARI, P. J. Estatística para as Ciências Agrárias e Bioló
 
 <br>
 
-BUSSAB, W. O.; MORETTIN, P.A. Estatística Básica. 10ª ed. São Paulo: Saraiva, 2023. 624p.
+BANZATTO, D. A.; KRONKA, S. N. Experimentação Agrícola. 4. ed. Jaboticabal: FUNEP, 2013.
 
 <br>
 
-MONTGOMERY, D. C.; RUNGER, G. C. Estatística Aplicada e Probabilidade para Engenheiros. Rio de Janeiro: LTC, 2003.
-:::
-
-------------------------------------------------------------------------
-
-#### Algebrismo
-
-::: {style="font-size: 30px;"}
-1.  Seja **Y** uma variável qualquer, com 7 observações:
-
-    $$
-    \textbf{ Y}=\{20;\ \ 20,3;\ \ 20,5;\ \ 22;\ \ 22,5;\ \ 19;\ \ 18,7\}
-    $$ Calcule (passo a passo):
-
-<!-- -->
-
-A.  Soma dos 5 primeiros valores: $\sum_{i=1}^{5}y_i$;
-
-B.  Quadrado da soma: $(\sum_{i=1}^{7}y_i)^2$;
-
-C.  Soma de quadrados $\sum_{i=1}^{7}y_i^2$;
-
-D.  Suponha a constante $k=15$ e calcule: $\sum_{i=1}^{7}k\ y_i$;
-
-E.  Soma dos desvios em relação a $k$: $\sum_{i=1}^{n} (y_i - k)$;
-
-F.  A média aritmética simples dos tempos: $\bar{y} =  \frac{ \sum_{i=1}^{n} y_i}{n}$;
-
-G.  Soma dos desvios em relação à média: $\sum_{i=1}^{n} (y_i - \bar{y})$.
+BARBIN, D. Planejamento e Análise Estatística de Experimentos Agronômicos. 2. ed. rev. ampl. - Londrina: Mecenas, 2013. 214p.
 :::
 
 ------------------------------------------------------------------------
@@ -200,44 +188,6 @@ G.  Soma dos desvios em relação à média: $\sum_{i=1}^{n} (y_i - \bar{y})$.
 
 -   ::: {style="text-align:justify;"}
     "O pensamento estatístico será um dia tão necessário para o cidadão quanto a habilidade de ler e escrever" (Well, H. G., 1993)
-    :::
-:::
-
-------------------------------------------------------------------------
-
-### Exemplos
-
-<br>
-
--   **Economia**: O padrão de vida no Brasil está mudando?
-
--   **Literatura**: O estilo do autor muda com a idade?
-
--   **Meteorologia**: O aquecimento global é uma realidade?
-
--   **Medicina**: Qual é o melhor medicamento?
-
--   **Agronomia**: Qual é a melhor variedade de milho?
-
-------------------------------------------------------------------------
-
-### Exemplos na área agronômica
-
-<br>
-
-::: {style="text-align: justify;"}
--   ::: {style="text-align:justify;"}
-    Verificar o comportamento da produção de milho sob o efeito de diferentes doses de nitrogênio.
-    :::
-
--   ::: {style="text-align:justify;"}
-    Na agricultura de precisão, como determinar a dosagem ideal de fertilizante?
-    :::
-
--   Como determinar o valor de seguro agrícola?
-
--   ::: {style="text-align:justify;"}
-    Qual é a efetividade de um novo tratamento contra a infestação de percevejo?
     :::
 :::
 
