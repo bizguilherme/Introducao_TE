@@ -1,5 +1,5 @@
 ---
-title: "Técnicas Experimentais"
+title: "Técnicas Experimentais em Agronomia"
 format: revealjs
 editor: visual
 author: 
@@ -500,7 +500,7 @@ Clique em "install R for the first time".
 
 ------------------------------------------------------------------------
 
-Download R 4.4.3 for Windows
+Download R (Versão mais nova) for Windows
 
 ![](5_r_versao.png)
 
