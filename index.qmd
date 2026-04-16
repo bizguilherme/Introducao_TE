@@ -80,33 +80,33 @@ Estatística Descritiva. Distribuição Normal. Estimação. Teste de Hipóteses
 
 -   (26/03) Est. Descritiva. Uso do R.
 
--   (02/04) V. A.. Inferência. Uso do R.
+-   (09/04) V. A.. Inferência. Uso do R.
 
--   (09/04) T.H.. Uso do R.
+-   (16/04) Estimação. Uso do R.
 
--   (16/04) Avaliação.
+-   (23/04) T.H.. Uso do R.
 
--   (23/04) Plan. Exp.. Uso do R.
+-   (30/04) Avaliação.
 
--   (30/04) DIC.
+-   (07/05) Plan. Exp.. Uso do R. DIC.
 
--   (07/05) TCM. Uso do R.
+-   (14/05) TCM. Uso do R.
 :::
 
 ::: {.column width="52%" style="font-size: 34px;"}
--   (14/05) DBC. Uso do R.
-
--   (21/05) Exp. Fatoriais. Uso do R.
+-   (21/05) DBC. Uso do R.
 
 -   (28/05) Exp. Fatoriais. Uso do R.
 
--   (11/06) Ex. Par. Sub.. Uso do R.
+-   (11/06) Exp. Fatoriais. Uso do R.
 
--   (18/06) Regressão. Uso do R.
+-   (18/06) Ex. Par. Sub.. Uso do R.
 
--   (25/06) Grupos de Exp.. Uso do R.
+-   (25/06) Regressão. Uso do R.
 
--   (02/07) Avaliacão.
+-   (02/07) Grupos de Exp.. Uso do R.
+
+-   (09/07) Avaliacão.
 :::
 :::::
 
